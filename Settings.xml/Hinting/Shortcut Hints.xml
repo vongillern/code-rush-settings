@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Shortcut Hints">
+ <Language Name="*Neutral*">
+  <Section Name="Settings">
+   <Option Name="Enabled" Value="True" />
+  </Section>
+  <Section Name="Suppress">
+   <Option Name="Last Text Field Active.TextFields" Value="True" />
+  </Section>
+ </Language>
+</Page>

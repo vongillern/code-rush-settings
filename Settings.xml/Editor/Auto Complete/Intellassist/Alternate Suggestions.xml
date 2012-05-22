@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Alternate Suggestions">
+ <Language Name="*Neutral*">
+  <Section Name="History">
+   <Option Name="person" Value="person" />
+  </Section>
+ </Language>
+</Page>

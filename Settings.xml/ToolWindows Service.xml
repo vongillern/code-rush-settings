@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="ToolWindows Service">
+ <Language Name="*Neutral*">
+  <Section Name="ToolWindows_VS2010">
+   <Option Name="Visible_Count" Value="0" />
+   <Option Name="Visible_0" Value="{aab4c3ca-6698-4109-9584-8adba4defa06}" />
+   <Option Name="Visible_1" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+  </Section>
+  <Section Name="ToolWindows_VS2008">
+   <Option Name="Visible_Count" Value="0" />
+  </Section>
+ </Language>
+</Page>

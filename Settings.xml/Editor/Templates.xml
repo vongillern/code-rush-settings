@@ -1,0 +1,34 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Templates">
+ <Language Name="Basic">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="try...\tc" />
+   <Option Name="SplitterPosition" Value="244" />
+   <Option Name="TreeSplitterPosition" Value="160" />
+  </Section>
+ </Language>
+ <Language Name="CSharp">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="Diagnostics\cw" />
+   <Option Name="SplitterPosition" Value="283" />
+   <Option Name="TreeSplitterPosition" Value="409" />
+  </Section>
+ </Language>
+ <Language Name="JavaScript">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="If blocks\if" />
+  </Section>
+ </Language>
+ <Language Name="XAML">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="Panels\sph," />
+  </Section>
+ </Language>
+ <Language Name="HTML">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="{Misc}\dis" />
+   <Option Name="SplitterPosition" Value="283" />
+   <Option Name="TreeSplitterPosition" Value="409" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Break Apart/Line Up Attributes">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="KeepFirstAttribute" Value="False" />
+   <Option Name="SortAttributes" Value="False" />
+  </Section>
+ </Language>
+</Page>

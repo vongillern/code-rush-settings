@@ -1,0 +1,25 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="User Guide">
+ <Language Name="*Neutral*">
+  <Section Name="Links">
+   <Option Name="NextTopic" Value="Next - %title%" />
+   <Option Name="PrevTopic" Value="Previous - %title%" />
+   <Option Name="CustomKeyBinding" Value="custom_key_bindings.htm" />
+  </Section>
+  <Section Name="Config">
+   <Option Name="ShowEditMenus" Value="False" />
+   <Option Name="AdjustSplitter" Value="False" />
+   <Option Name="AutomaticLayout" Value="False" />
+   <Option Name="PortraitLayout" Value="True" />
+   <Option Name="LandscapeLayout" Value="False" />
+   <Option Name="RightLayout" Value="True" />
+   <Option Name="LeftLayout" Value="False" />
+   <Option Name="ShowSectionLinks" Value="False" />
+   <Option Name="ShowMemberLinks" Value="False" />
+   <Option Name="ShowInheritedMembers" Value="False" />
+   <Option Name="ShowHiddenMembers" Value="False" />
+   <Option Name="LogMessages" Value="False" />
+  </Section>
+  <Section Name="TextClips" />
+ </Language>
+</Page>

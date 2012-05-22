@@ -1,0 +1,34 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Big Hint Stats">
+ <Language Name="*Neutral*">
+  <Section Name="#Hints#">
+   <Option Name="Count" Value="2" />
+   <Option Name="Feature0" Value="Shortcuts Option Page" />
+   <Option Name="Feature1" Value="Refactoring" />
+  </Section>
+  <Section Name="Shortcuts Option Page">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Empty Folder" />
+  </Section>
+  <Section Name="Shortcuts Option Page.Empty Folder">
+   <Option Name="Enabled" Value="False" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Refactoring">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Context menu hint" />
+  </Section>
+  <Section Name="Refactoring.Context menu hint">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="463" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+ </Language>
+</Page>
