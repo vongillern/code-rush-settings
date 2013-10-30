@@ -1,0 +1,14 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Flow Break Evaluation">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ArrowSpeed" Value="200" />
+   <Option Name="BorderOpacity" Value="128" />
+   <Option Name="FillOpacity" Value="70" />
+   <Option Name="MatchIconColors" Value="True" />
+   <Option Name="CustomColor" Value="Named:WindowText" />
+   <Option Name="FlowBreakIconOpacity" Value="165" />
+  </Section>
+ </Language>
+</Page>

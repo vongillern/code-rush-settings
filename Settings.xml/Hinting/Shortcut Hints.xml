@@ -6,6 +6,10 @@
   </Section>
   <Section Name="Suppress">
    <Option Name="Last Text Field Active.TextFields" Value="True" />
+   <Option Name="Text Field Active.TextFields" Value="True" />
+   <Option Name="Nav Link Active.NavLink" Value="True" />
+   <Option Name="Expression Visualizer" Value="True" />
+   <Option Name="Intellassist.Full" Value="True" />
   </Section>
  </Language>
 </Page>

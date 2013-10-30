@@ -2,9 +2,10 @@
 <Page Name="Big Hint Stats">
  <Language Name="*Neutral*">
   <Section Name="#Hints#">
-   <Option Name="Count" Value="2" />
-   <Option Name="Feature0" Value="Shortcuts Option Page" />
+   <Option Name="Count" Value="3" />
+   <Option Name="Feature0" Value="CodeRush Options" />
    <Option Name="Feature1" Value="Refactoring" />
+   <Option Name="Feature2" Value="Templates" />
   </Section>
   <Section Name="Shortcuts Option Page">
    <Option Name="Enabled" Value="True" />
@@ -26,7 +27,31 @@
   </Section>
   <Section Name="Refactoring.Context menu hint">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="463" />
+   <Option Name="ExecutionCount" Value="598" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="CodeRush Options">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Information" />
+  </Section>
+  <Section Name="CodeRush Options.Information">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Templates">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Smart Return" />
+  </Section>
+  <Section Name="Templates.Smart Return">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

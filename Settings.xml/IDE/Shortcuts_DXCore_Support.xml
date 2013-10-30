@@ -4,7 +4,7 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="" />
-   <Option Name="FolderState" Value="Collapsed" />
+   <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="3" />
@@ -38,15 +38,15 @@
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="12" />
    <Option Name="ContextExcluded_0" Value="Editor\In Code Snippet Field" />
-   <Option Name="ContextExcluded_1" Value="System\Annotation Mode Active" />
-   <Option Name="ContextExcluded_2" Value="System\Code Issues Zoom Window is active" />
-   <Option Name="ContextExcluded_3" Value="System\CodeFix UI is active" />
-   <Option Name="ContextExcluded_4" Value="System\In TextField" />
-   <Option Name="ContextExcluded_5" Value="System\Intellassist Active" />
-   <Option Name="ContextExcluded_6" Value="System\Intellisense Active" />
-   <Option Name="ContextExcluded_7" Value="System\Menu Active" />
-   <Option Name="ContextExcluded_8" Value="System\Picker Is Active" />
-   <Option Name="ContextExcluded_9" Value="System\Text Replacer Is Active" />
+   <Option Name="ContextExcluded_1" Value="System\Code Issues Zoom Window is active" />
+   <Option Name="ContextExcluded_2" Value="System\CodeFix UI is active" />
+   <Option Name="ContextExcluded_3" Value="System\In TextField" />
+   <Option Name="ContextExcluded_4" Value="System\Intellassist Active" />
+   <Option Name="ContextExcluded_5" Value="System\Intellisense Active" />
+   <Option Name="ContextExcluded_6" Value="System\Menu Active" />
+   <Option Name="ContextExcluded_7" Value="System\Picker Is Active" />
+   <Option Name="ContextExcluded_8" Value="System\Text Replacer Is Active" />
+   <Option Name="ContextExcluded_9" Value="System\Third Party Extensions\Productivity Power Tools\QuickFind is Active" />
    <Option Name="ContextExcluded_10" Value="System\Tip Window Active" />
    <Option Name="ContextExcluded_11" Value="System\Visual Studio SmartTag Active" />
    <Option Name="Selected" Value="False" />

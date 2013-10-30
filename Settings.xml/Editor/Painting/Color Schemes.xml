@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Color Schemes">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Active Scheme" Value="Dark" />
+   <Option Name="Last Focused Group" Value="Code Difference" />
+   <Option Name="Last Focused Setting" Value="AddMarkerColor" />
+   <Option Name="Adjust To VS Theme" Value="True" />
+   <Option Name="Light Scheme Name" Value="Light" />
+   <Option Name="Dark Scheme Name" Value="Dark" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,210 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Color Schemes_Dark">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Theme Name" Value="Dark" />
+  </Section>
+  <Section Name="Code Previews">
+   <Option Name="Text.Binding Color Group" Value="Text Editor" />
+   <Option Name="Text.Binding Color Setting" Value="Foreground" />
+   <Option Name="Text.Color" Value="ARGB:0:0:0:0" />
+   <Option Name="Background.Binding Color Group" Value="Text Editor" />
+   <Option Name="Background.Binding Color Setting" Value="Background" />
+   <Option Name="Background.Color" Value="ARGB:0:0:0:0" />
+   <Option Name="Border.Color" Value="ARGB:255:200:201:87" />
+  </Section>
+  <Section Name="Code Difference">
+   <Option Name="AddMarkerColor.Color" Value="ARGB:255:167:255:175" />
+   <Option Name="DeleteMarkerColor.Color" Value="Named:Red" />
+   <Option Name="ModifyMarkerColor.Color" Value="Named:Blue" />
+   <Option Name="DefaultMarkerColor.Color" Value="Named:Transparent" />
+  </Section>
+  <Section Name="Navigation Fields">
+   <Option Name="Color.Color" Value="ARGB:255:255:0:166" />
+  </Section>
+  <Section Name="Navigation Links">
+   <Option Name="Color.Color" Value="ARGB:255:0:217:152" />
+  </Section>
+  <Section Name="Linked Identifiers">
+   <Option Name="Border Color.Color" Value="ARGB:255:0:217:152" />
+   <Option Name="Fill Color.Color" Value="ARGB:255:79:255:185" />
+  </Section>
+  <Section Name="Markers">
+   <Option Name="Standard.Color" Value="Named:Red" />
+   <Option Name="Transient.Color" Value="Named:Blue" />
+   <Option Name="System.Color" Value="Named:LightGray" />
+   <Option Name="Bookmark.Color" Value="ARGB:255:224:137:0" />
+   <Option Name="Beacon.Color" Value="Named:SlateBlue" />
+  </Section>
+  <Section Name="Hinting">
+   <Option Name="Messages.Background.Color" Value="ARGB:255:16:16:0" />
+   <Option Name="Messages.Foreground.Color" Value="Named:White" />
+   <Option Name="Messages.Border.Color" Value="ARGB:255:51:51:51" />
+   <Option Name="Messages.Title.Color" Value="ARGB:255:204:153:51" />
+   <Option Name="Messages.Link.Color" Value="ARGB:255:153:153:255" />
+   <Option Name="Messages.Description.Color" Value="Named:DarkGray" />
+   <Option Name="Shortcut hint.Title Background.Color" Value="ARGB:255:233:235:243" />
+   <Option Name="Shortcut hint.Legend Background.Color" Value="ARGB:255:172:181:212" />
+   <Option Name="Shortcut hint.Data Background.Color" Value="ARGB:255:251:252:255" />
+   <Option Name="Shortcut hint.Title.Color" Value="ARGB:255:50:67:132" />
+   <Option Name="Shortcut hint.Key Text.Color" Value="ARGB:255:63:82:143" />
+   <Option Name="Shortcut hint.Legend Text.Color" Value="Named:White" />
+   <Option Name="Shortcut hint.Behavior Text.Color" Value="ARGB:255:42:66:146" />
+   <Option Name="Shortcut hint.Horizontal Line.Color" Value="ARGB:255:213:219:229" />
+   <Option Name="Shortcut hint.Vertical Line.Color" Value="ARGB:255:187:194:221" />
+   <Option Name="Shortcut hint.Key Vertical Highlight.Color" Value="ARGB:255:194:201:224" />
+   <Option Name="Shortcut hint.Key Vertical Shadow.Color" Value="ARGB:255:169:176:203" />
+   <Option Name="Shortcut hint.Behavior Vertical Highlight.Color" Value="ARGB:255:208:214:234" />
+   <Option Name="Shortcut hint.Legend Horizontal Highlight.Color" Value="ARGB:255:179:188:217" />
+   <Option Name="Shortcut hint.Legend Horizontal Shadow.Color" Value="ARGB:255:162:170:198" />
+   <Option Name="Shortcut hint.Title Outline.Color" Value="ARGB:255:177:190:209" />
+   <Option Name="Shortcut hint.Title Highlight.Color" Value="ARGB:255:241:241:242" />
+   <Option Name="Shortcut hint.Title Diagonal Highlight.Color" Value="ARGB:255:214:220:226" />
+   <Option Name="Shortcut hint.Form Outline.Color" Value="ARGB:255:131:155:191" />
+   <Option Name="Shortcut hint.Form Top Line.Color" Value="ARGB:255:157:168:205" />
+   <Option Name="Shortcut hint.Form Inside Lower Right Shadow.Color" Value="ARGB:255:225:231:247" />
+   <Option Name="Shortcut hint.Group Separator.Color" Value="ARGB:255:181:189:217" />
+  </Section>
+  <Section Name="DXCore Smart Tag Menu.Code">
+   <Option Name="Background.Color" Value="ARGB:255:249:250:251" />
+   <Option Name="Text.Color" Value="ARGB:255:85:95:113" />
+   <Option Name="Selected Text.Color" Value="ARGB:255:255:255:255" />
+   <Option Name="Selected Border.Color" Value="ARGB:255:65:89:131" />
+   <Option Name="Selected Background.Color" Value="ARGB:255:118:146:194" />
+   <Option Name="Border Left Outer.Color" Value="ARGB:255:195:212:240" />
+   <Option Name="Border Left Inner.Color" Value="ARGB:255:186:205:238" />
+   <Option Name="Border Right Outer.Color" Value="ARGB:255:125:162:215" />
+   <Option Name="Border Right Inner.Color" Value="ARGB:255:178:201:232" />
+   <Option Name="Border Top.Color" Value="ARGB:255:186:205:238" />
+   <Option Name="Border Bottom.Color" Value="ARGB:255:200:217:242" />
+   <Option Name="Title Text.Color" Value="ARGB:255:159:180:211" />
+   <Option Name="Title Active Text.Color" Value="ARGB:255:118:146:194" />
+   <Option Name="Title Background.Color" Value="ARGB:255:233:245:255" />
+   <Option Name="Title Active Background.Color" Value="ARGB:255:241:248:255" />
+  </Section>
+  <Section Name="DXCore Smart Tag">
+   <Option Name="Border.Color" Value="ARGB:255:210:220:250" />
+   <Option Name="Circle.Color" Value="ARGB:255:210:220:250" />
+  </Section>
+  <Section Name="Text Fields">
+   <Option Name="Border Color.Color" Value="ARGB:255:249:143:0" />
+   <Option Name="Fill Color.Color" Value="Named:Black" />
+  </Section>
+  <Section Name="Regions">
+   <Option Name="ExpandedText.Color" Value="ARGB:255:210:220:250" />
+   <Option Name="ExpandedLine.Color" Value="ARGB:255:210:220:250" />
+   <Option Name="ExpandedArrow.Color" Value="ARGB:255:166:186:246" />
+   <Option Name="CollapsedFill.Color" Value="ARGB:255:33:51:105" />
+   <Option Name="CollapsedText.Color" Value="ARGB:255:210:220:250" />
+   <Option Name="CollapsedLine.Color" Value="ARGB:255:21:70:215" />
+  </Section>
+  <Section Name="Line Highlighter">
+   <Option Name="Line Color.Color" Value="ARGB:255:186:255:173" />
+  </Section>
+  <Section Name="Right Margin Line">
+   <Option Name="Line Color.Color" Value="ARGB:255:166:186:246" />
+  </Section>
+  <Section Name="Metrics">
+   <Option Name="LineCount.Color" Value="ARGB:255:255:194:194" />
+   <Option Name="CyclomaticComplexity.Color" Value="ARGB:255:255:194:194" />
+   <Option Name="MaintenanceComplexity.Color" Value="ARGB:255:255:194:194" />
+  </Section>
+  <Section Name="Test Runner Window">
+   <Option Name="Main.Background.Binding Color Group" Value="Text Editor" />
+   <Option Name="Main.Background.Binding Color Setting" Value="Background" />
+   <Option Name="Main.Background.Color" Value="ARGB:0:0:0:0" />
+   <Option Name="Main.Text.Binding Color Group" Value="Text Editor" />
+   <Option Name="Main.Text.Binding Color Setting" Value="Text" />
+   <Option Name="Main.Text.Color" Value="ARGB:0:0:0:0" />
+   <Option Name="Main.Separator.Color" Value="ARGB:255:210:220:250" />
+   <Option Name="Messages.Error.Color" Value="ARGB:255:181:0:0" />
+   <Option Name="Messages.Ignore.Color" Value="ARGB:255:255:153:13" />
+   <Option Name="Messages.Passed.Color" Value="ARGB:255:118:192:118" />
+   <Option Name="Messages.Comparison.Color" Value="ARGB:255:255:194:194" />
+   <Option Name="Call Stack.Namespace.Color" Value="ARGB:255:78:118:238" />
+   <Option Name="Call Stack.Type.Color" Value="ARGB:255:41:145:41" />
+   <Option Name="Call Stack.Member.Color" Value="ARGB:255:0:61:240" />
+   <Option Name="Call Stack.ParameterName.Color" Value="ARGB:255:139:159:218" />
+   <Option Name="Call Stack.Link.Color" Value="ARGB:255:87:35:173" />
+   <Option Name="Delimeters.Dot.Color" Value="Named:Gray" />
+   <Option Name="Delimeters.Comma.Color" Value="Named:Gray" />
+   <Option Name="Delimeters.In.Color" Value="ARGB:255:139:112:186" />
+   <Option Name="Delimeters.Parens.Color" Value="Named:Gray" />
+  </Section>
+  <Section Name="DXCore Smart Tag Menu.Suppress Issue">
+   <Option Name="Background.Color" Value="ARGB:255:250:248:248" />
+   <Option Name="Text.Color" Value="ARGB:255:113:85:85" />
+   <Option Name="Selected Text.Color" Value="ARGB:255:255:255:255" />
+   <Option Name="Selected Border.Color" Value="ARGB:255:122:60:61" />
+   <Option Name="Selected Background.Color" Value="ARGB:255:191:111:112" />
+   <Option Name="Border Left Outer.Color" Value="ARGB:255:242:204:205" />
+   <Option Name="Border Left Inner.Color" Value="ARGB:255:241:197:198" />
+   <Option Name="Border Right Outer.Color" Value="ARGB:255:226:158:160" />
+   <Option Name="Border Right Inner.Color" Value="ARGB:255:236:188:189" />
+   <Option Name="Border Top.Color" Value="ARGB:255:233:167:168" />
+   <Option Name="Border Bottom.Color" Value="ARGB:255:243:199:200" />
+   <Option Name="Title Text.Color" Value="ARGB:255:213:157:159" />
+   <Option Name="Title Active Text.Color" Value="ARGB:255:196:124:125" />
+   <Option Name="Title Background.Color" Value="ARGB:255:255:233:237" />
+   <Option Name="Title Active Background.Color" Value="ARGB:255:255:241:243" />
+  </Section>
+  <Section Name="Hinting.Billboard Messages">
+   <Option Name="Fill Color.Color" Value="ARGB:255:182:252:182" />
+   <Option Name="Border Color.Color" Value="ARGB:255:0:100:0" />
+  </Section>
+  <Section Name="DXCore Smart Tag Menu.Refactor">
+   <Option Name="Background.Color" Value="ARGB:255:250:248:248" />
+   <Option Name="Text.Color" Value="ARGB:255:113:85:85" />
+   <Option Name="Selected Text.Color" Value="ARGB:255:255:255:255" />
+   <Option Name="Selected Border.Color" Value="ARGB:255:122:60:61" />
+   <Option Name="Selected Background.Color" Value="ARGB:255:191:111:112" />
+   <Option Name="Border Left Outer.Color" Value="ARGB:255:242:204:205" />
+   <Option Name="Border Left Inner.Color" Value="ARGB:255:241:197:198" />
+   <Option Name="Border Right Outer.Color" Value="ARGB:255:226:158:160" />
+   <Option Name="Border Right Inner.Color" Value="ARGB:255:236:188:189" />
+   <Option Name="Border Top.Color" Value="ARGB:255:233:167:168" />
+   <Option Name="Border Bottom.Color" Value="ARGB:255:243:199:200" />
+   <Option Name="Title Text.Color" Value="ARGB:255:213:157:159" />
+   <Option Name="Title Active Text.Color" Value="ARGB:255:196:124:125" />
+   <Option Name="Title Background.Color" Value="ARGB:255:255:233:237" />
+   <Option Name="Title Active Background.Color" Value="ARGB:255:255:241:243" />
+  </Section>
+  <Section Name="DXCore Smart Tag Menu.Jump to">
+   <Option Name="Background.Color" Value="ARGB:255:249:251:250" />
+   <Option Name="Text.Color" Value="ARGB:255:85:113:96" />
+   <Option Name="Selected Text.Color" Value="ARGB:255:255:255:255" />
+   <Option Name="Selected Border.Color" Value="ARGB:255:46:88:71" />
+   <Option Name="Selected Background.Color" Value="ARGB:255:132:199:135" />
+   <Option Name="Border Left Outer.Color" Value="ARGB:255:195:240:212" />
+   <Option Name="Border Left Inner.Color" Value="ARGB:255:186:238:206" />
+   <Option Name="Border Right Outer.Color" Value="ARGB:255:125:215:156" />
+   <Option Name="Border Right Inner.Color" Value="ARGB:255:178:232:196" />
+   <Option Name="Border Top.Color" Value="ARGB:255:186:238:206" />
+   <Option Name="Border Bottom.Color" Value="ARGB:255:125:215:156" />
+   <Option Name="Title Text.Color" Value="ARGB:255:136:224:171" />
+   <Option Name="Title Active Text.Color" Value="ARGB:255:136:224:171" />
+   <Option Name="Title Background.Color" Value="ARGB:255:241:255:246" />
+   <Option Name="Title Active Background.Color" Value="ARGB:255:241:255:246" />
+  </Section>
+  <Section Name="Training Window">
+   <Option Name="Main.Background.Color" Value="Named:White" />
+   <Option Name="Main.Text.Color" Value="Named:Black" />
+   <Option Name="Templates.Typed part.Color" Value="Named:Gray" />
+   <Option Name="Templates.Continue part.Color" Value="Named:Black" />
+   <Option Name="Templates.Description.Color" Value="Named:CornflowerBlue" />
+   <Option Name="Templates.Dynamic type letter.Color" Value="Named:Black" />
+   <Option Name="Templates.Mnemonic letter.Color" Value="Named:Red" />
+   <Option Name="Templates.Dynamic type letter(opt).Color" Value="Named:Gray" />
+   <Option Name="Templates.Mnemonic letter(opt).Color" Value="Named:Pink" />
+   <Option Name="Features.Shortcuts.Color" Value="ARGB:255:0:0:255" />
+   <Option Name="Features.Refactor block.Color" Value="ARGB:255:167:17:17" />
+   <Option Name="Features.Code block.Color" Value="ARGB:255:0:71:156" />
+   <Option Name="Features.Jump To block.Color" Value="ARGB:255:62:118:0" />
+   <Option Name="Features.Shortcuts block.Color" Value="ARGB:255:152:72:6" />
+   <Option Name="Features.Refactor block caption.Color" Value="ARGB:255:213:137:135" />
+   <Option Name="Features.Code block caption.Color" Value="ARGB:255:149:179:215" />
+   <Option Name="Features.Jump To block caption.Color" Value="ARGB:255:165:199:127" />
+   <Option Name="Features.Shortcuts block caption.Color" Value="ARGB:255:213:177:167" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="ComplexityMetricWindowPage">
+ <Language Name="*Neutral*">
+  <Section Name="ComplexityMetricWindowPage">
+   <Option Name="TypeMetricIndex" Value="0" />
+   <Option Name="MemberMetricIndex" Value="0" />
+  </Section>
+ </Language>
+</Page>

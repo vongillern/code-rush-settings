@@ -1,0 +1,17 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Training Window">
+ <Language Name="*Neutral*">
+  <Section Name="Features">
+   <Option Name="GoToEdior" Value="True" />
+   <Option Name="ShowGroupingTypesColor" Value="True" />
+   <Option Name="ShowUnderlineMnemonics" Value="False" />
+   <Option Name="ShowMnemonicsForTypes" Value="False" />
+   <Option Name="FixedZoomValue" Value="-1" />
+   <Option Name="EditZoomValue" Value="100" />
+   <Option Name="Refactor!" Value="False" />
+   <Option Name="Code!" Value="False" />
+   <Option Name="Jump to" Value="False" />
+   <Option Name="ShowShortcuts" Value="True" />
+  </Section>
+ </Language>
+</Page>

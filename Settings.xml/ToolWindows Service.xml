@@ -9,5 +9,18 @@
   <Section Name="ToolWindows_VS2008">
    <Option Name="Visible_Count" Value="0" />
   </Section>
+  <Section Name="ToolWindows_VS2011">
+   <Option Name="Visible_Count" Value="0" />
+   <Option Name="Visible_0" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+   <Option Name="Visible_1" Value="{aab4c3ca-6698-4109-9584-8adba4defa06}" />
+  </Section>
+  <Section Name="ToolWindows_VS2012">
+   <Option Name="Visible_Count" Value="1" />
+   <Option Name="Visible_0" Value="{47869740-5bb4-46cd-8e85-5d604a03a872}" />
+   <Option Name="Visible_1" Value="{aab4c3ca-6698-4109-9584-8adba4defa06}" />
+  </Section>
+  <Section Name="ToolWindows_Orcas">
+   <Option Name="Visible_Count" Value="0" />
+  </Section>
  </Language>
 </Page>

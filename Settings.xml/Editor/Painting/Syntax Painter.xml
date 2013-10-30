@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Syntax Painter">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="UseMonoColoredBackgroundPainting" Value="True" />
+  </Section>
+ </Language>
+</Page>

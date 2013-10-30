@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Comment Highlighter">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Enabled" Value="False" />
+   <Option Name="UseColors" Value="False" />
+   <Option Name="KeywordColor" Value="Named:Red" />
+   <Option Name="TextColor" Value="Named:Blue" />
+  </Section>
+ </Language>
+</Page>

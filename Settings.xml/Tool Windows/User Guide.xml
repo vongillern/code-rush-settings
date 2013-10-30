@@ -20,6 +20,8 @@
    <Option Name="ShowHiddenMembers" Value="False" />
    <Option Name="LogMessages" Value="False" />
   </Section>
-  <Section Name="TextClips" />
+  <Section Name="config">
+   <Option Name="lastlanguage" Value="CSharp" />
+  </Section>
  </Language>
 </Page>

@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="Preferences">
    <Option Name="MemberIconStyle" Value="Member" />
-   <Option Name="Enabled" Value="True" />
+   <Option Name="Enabled" Value="False" />
    <Option Name="MemberIconOpacity" Value="165" />
   </Section>
  </Language>

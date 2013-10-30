@@ -1,0 +1,82 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Debug Visualizer">
+ <Language Name="*Neutral*">
+  <Section Name="DebuggerVisualizer">
+   <Option Name="LoopCounter" Value="ARGB:255:141:25:71" />
+   <Option Name="ImagesOpacity" Value="1" />
+  </Section>
+  <Section Name="ExpressionVisualizer">
+   <Option Name="Background" Value="Named:Black" />
+   <Option Name="BackgroundUseVS" Value="True" />
+   <Option Name="Code" Value="ARGB:255:0:0:0" />
+   <Option Name="CodeUseVS" Value="False" />
+   <Option Name="CodeBackground" Value="ARGB:255:255:249:201" />
+   <Option Name="RepeatedCode" Value="ARGB:102:0:0:0" />
+   <Option Name="HorizontalLine" Value="ARGB:127:128:128:128" />
+  </Section>
+  <Section Name="ExpressionValue">
+   <Option Name="Value" Value="ARGB:255:52:52:52" />
+   <Option Name="ChangedValue" Value="ARGB:255:166:0:1" />
+   <Option Name="ConclusiveValue" Value="ARGB:255:0:172:105" />
+   <Option Name="FontName" Value="Consolas" />
+   <Option Name="FontNameUseVS" Value="True" />
+   <Option Name="FontSize" Value="80" />
+   <Option Name="Border" Value="ARGB:255:207:207:207" />
+   <Option Name="Background" Value="ARGB:255:241:245:255" />
+   <Option Name="ExpressionLine" Value="ARGB:95:75:95:214" />
+   <Option Name="ActiveBorder" Value="ARGB:180:36:0:141" />
+   <Option Name="ActiveBackground" Value="ARGB:255:255:255:255" />
+   <Option Name="ActiveExpressionLine" Value="ARGB:220:112:57:255" />
+   <Option Name="ParentBorder" Value="ARGB:255:207:192:240" />
+   <Option Name="ParentBackground" Value="ARGB:255:246:243:252" />
+   <Option Name="ParentExpressionLine" Value="ARGB:255:171:139:236" />
+   <Option Name="InnerBorder" Value="ARGB:214:87:21:255" />
+   <Option Name="MiddleBorder" Value="ARGB:90:137:0:233" />
+   <Option Name="OuterBorder" Value="ARGB:45:253:2:232" />
+   <Option Name="CodeBackground" Value="ARGB:255:255:255:255" />
+  </Section>
+  <Section Name="RefreshButton">
+   <Option Name="Arrow" Value="ARGB:255:10:10:10" />
+   <Option Name="ReappearedArrow" Value="ARGB:255:127:127:127" />
+   <Option Name="Border" Value="ARGB:255:193:193:193" />
+   <Option Name="Background" Value="ARGB:255:228:228:228" />
+   <Option Name="ExpressionLine" Value="ARGB:255:193:193:193" />
+   <Option Name="ActiveBorder" Value="ARGB:255:140:1:0" />
+   <Option Name="ActiveBackground" Value="ARGB:255:228:228:228" />
+   <Option Name="ActiveExpressionLine" Value="ARGB:176:143:74:74" />
+   <Option Name="ParentBorder" Value="ARGB:111:163:55:54" />
+   <Option Name="ParentBackground" Value="ARGB:255:228:228:228" />
+   <Option Name="ParentExpressionLine" Value="ARGB:255:193:193:193" />
+   <Option Name="InnerBorder" Value="ARGB:129:147:7:0" />
+   <Option Name="MiddleBorder" Value="ARGB:106:234:104:0" />
+   <Option Name="OuterBorder" Value="ARGB:62:255:210:1" />
+   <Option Name="EpseInnerBorder" Value="ARGB:255:236:0:2" />
+   <Option Name="EpseMiddleBorder" Value="ARGB:224:255:86:47" />
+   <Option Name="EpseOuterBorder" Value="ARGB:180:255:139:47" />
+   <Option Name="CodeBackground" Value="ARGB:255:255:255:255" />
+  </Section>
+  <Section Name="NodeMap">
+   <Option Name="Border" Value="ARGB:128:192:192:192" />
+   <Option Name="Background" Value="Named:Black" />
+   <Option Name="BackgroundUseVS" Value="True" />
+   <Option Name="NodeBorder" Value="ARGB:255:121:183:247" />
+   <Option Name="NodeBackground" Value="ARGB:255:213:233:255" />
+   <Option Name="ActiveNodeBorder" Value="ARGB:255:27:0:98" />
+   <Option Name="ActiveNodeBackground" Value="ARGB:255:217:207:255" />
+   <Option Name="ParentNodeBorder" Value="ARGB:255:160:123:255" />
+   <Option Name="ParentNodeBackground" Value="ARGB:255:225:217:255" />
+   <Option Name="ConclusiveNodeBorder" Value="ARGB:255:121:183:247" />
+   <Option Name="ConclusiveNodeBackground" Value="ARGB:255:213:233:255" />
+   <Option Name="ActiveConclusiveNodeBorder" Value="ARGB:255:27:0:98" />
+   <Option Name="ActiveConclusiveNodeBackground" Value="ARGB:255:217:207:255" />
+   <Option Name="ParentConclusiveNodeBorder" Value="ARGB:255:160:123:255" />
+   <Option Name="ParentConclusiveNodeBackground" Value="ARGB:255:225:217:255" />
+   <Option Name="HiddenNodeBorder" Value="Named:Black" />
+   <Option Name="HiddenNodeBorderUseVS" Value="True" />
+   <Option Name="HiddenNodeBackground" Value="ARGB:255:226:223:234" />
+   <Option Name="HiddenNodeBackgroundUseVS" Value="False" />
+   <Option Name="Line" Value="ARGB:255:215:215:215" />
+   <Option Name="ParentLine" Value="ARGB:190:157:93:254" />
+  </Section>
+ </Language>
+</Page>

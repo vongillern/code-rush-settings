@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Tab to Next Reference">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="CheckStartOfFieldDeclarations" Value="True" />
+   <Option Name="VisualizeReferenceSearch" Value="True" />
+   <Option Name="NavigateIntoDesignerCode" Value="True" />
+   <Option Name="DropMarkerBeforeJump" Value="True" />
+  </Section>
+ </Language>
+</Page>

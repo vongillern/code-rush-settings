@@ -10,7 +10,7 @@
    <Option Name="Count" Value="0" />
   </Section>
   <Section Name="Global">
-   <Option Name="SeparateAltKeys" Value="True" />
+   <Option Name="SeparateAltKeys" Value="False" />
   </Section>
  </Language>
 </Page>

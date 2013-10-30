@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Message Log">
+ <Language Name="*Neutral*">
+  <Section Name="Settings">
+   <Option Name="MaxItemCount" Value="2000" />
+   <Option Name="LogVsCommands" Value="False" />
+   <Option Name="LogToolWindowInfo" Value="False" />
+   <Option Name="LogToDisk" Value="False" />
+   <Option Name="EnableLogging" Value="False" />
+  </Section>
+ </Language>
+</Page>

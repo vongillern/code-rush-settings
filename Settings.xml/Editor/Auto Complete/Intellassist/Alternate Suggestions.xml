@@ -3,6 +3,12 @@
  <Language Name="*Neutral*">
   <Section Name="History">
    <Option Name="person" Value="person" />
+   <Option Name="list" Value="list" />
+   <Option Name="reports" Value="reports" />
+   <Option Name="groupedProducts" Value="groupedProducts" />
+   <Option Name="value,BuildRefProdValidationResultKey" Value="value" />
+   <Option Name="list,GetData" Value="list" />
+   <Option Name="GetVendorToCenterToDateToInfo" Value="GetVendorToCenterToDateToInfo" />
   </Section>
  </Language>
 </Page>

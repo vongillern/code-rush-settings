@@ -1,0 +1,22 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Markers">
+ <Language Name="*Neutral*">
+  <Section Name="Beacons">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ColorMatchesMarker" Value="True" />
+   <Option Name="Color" Value="Named:SlateBlue" />
+   <Option Name="Duration" Value="700" />
+  </Section>
+  <Section Name="Markers">
+   <Option Name="MarkerStandardColor" Value="Named:Red" />
+   <Option Name="MarkerTransientColor" Value="Named:Blue" />
+   <Option Name="MarkerSystemColor" Value="Named:LightGray" />
+   <Option Name="MarkersEnabled" Value="True" />
+   <Option Name="UseActiveViewForMarkerCollect" Value="False" />
+  </Section>
+  <Section Name="Bookmarks">
+   <Option Name="BookmarkColor" Value="ARGB:255:224:137:0" />
+   <Option Name="BookmarksEnabled" Value="True" />
+  </Section>
+ </Language>
+</Page>

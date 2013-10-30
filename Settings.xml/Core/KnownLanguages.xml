@@ -2,17 +2,19 @@
 <Page Name="KnownLanguages">
  <Language Name="*Neutral*">
   <Section Name="Known Languages">
-   <Option Name="Count" Value="10" />
+   <Option Name="Count" Value="12" />
    <Option Name="Item0" Value="Basic" />
    <Option Name="Item1" Value="C/C++" />
    <Option Name="Item2" Value="CSharp" />
    <Option Name="Item3" Value="CSS" />
    <Option Name="Item4" Value="HTML" />
    <Option Name="Item5" Value="JavaScript" />
-   <Option Name="Item6" Value="Plain Text" />
-   <Option Name="Item7" Value="SQL" />
-   <Option Name="Item8" Value="XAML" />
-   <Option Name="Item9" Value="XML" />
+   <Option Name="Item6" Value="LESS" />
+   <Option Name="Item7" Value="Plain Text" />
+   <Option Name="Item8" Value="SQL" />
+   <Option Name="Item9" Value="SQL Server Tools" />
+   <Option Name="Item10" Value="XAML" />
+   <Option Name="Item11" Value="XML" />
   </Section>
  </Language>
 </Page>

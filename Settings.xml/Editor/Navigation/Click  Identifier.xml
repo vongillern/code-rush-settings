@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Click  Identifier">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="OverlayColor" Value="ARGB:255:129:37:233" />
+   <Option Name="IsEnabled" Value="False" />
+   <Option Name="ShowHint" Value="False" />
+   <Option Name="DropMarker" Value="False" />
+   <Option Name="ShowMemberCode" Value="False" />
+  </Section>
+ </Language>
+</Page>
