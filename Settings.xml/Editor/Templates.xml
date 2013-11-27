@@ -9,7 +9,7 @@
  </Language>
  <Language Name="CSharp">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="If blocks\if" />
+   <Option Name="SelectedNode" Value="My Custom\gp" />
    <Option Name="SplitterPosition" Value="283" />
    <Option Name="TreeSplitterPosition" Value="409" />
   </Section>
@@ -28,7 +28,7 @@
  </Language>
  <Language Name="HTML">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="{Misc}\db" />
+   <Option Name="SelectedNode" Value="Types\t?Type?" />
    <Option Name="SplitterPosition" Value="283" />
    <Option Name="TreeSplitterPosition" Value="409" />
   </Section>

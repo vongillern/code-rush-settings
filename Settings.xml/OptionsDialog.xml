@@ -17,8 +17,8 @@
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Core\Settings" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Core\Features Statistics" />
+   <Option Name="PriorSelectedNode" Value="Core\Features" />
   </Section>
   <Section Name="Global">
    <Option Name="EnableSkins" Value="False" />

@@ -2,7 +2,7 @@
 <Page Name="Options Services">
  <Language Name="*Neutral*">
   <Section Name="Registered">
-   <Option Name="Categories_Count" Value="25" />
+   <Option Name="Categories_Count" Value="26" />
    <Option Name="Categories_0" Value="Compatibility" />
    <Option Name="Categories_1" Value="Core" />
    <Option Name="Categories_2" Value="Core\Aliases" />
@@ -24,10 +24,11 @@
    <Option Name="Categories_18" Value="Editor\Refactoring" />
    <Option Name="Categories_19" Value="Editor\Selections" />
    <Option Name="Categories_20" Value="Editor\Text Commands" />
-   <Option Name="Categories_21" Value="Hinting" />
-   <Option Name="Categories_22" Value="IDE" />
-   <Option Name="Categories_23" Value="Tool Windows" />
-   <Option Name="Categories_24" Value="Unit Testing" />
+   <Option Name="Categories_21" Value="Editor\Training" />
+   <Option Name="Categories_22" Value="Hinting" />
+   <Option Name="Categories_23" Value="IDE" />
+   <Option Name="Categories_24" Value="Tool Windows" />
+   <Option Name="Categories_25" Value="Unit Testing" />
   </Section>
  </Language>
 </Page>

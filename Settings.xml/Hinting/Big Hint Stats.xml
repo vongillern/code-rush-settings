@@ -27,7 +27,7 @@
   </Section>
   <Section Name="Refactoring.Context menu hint">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="598" />
+   <Option Name="ExecutionCount" Value="637" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

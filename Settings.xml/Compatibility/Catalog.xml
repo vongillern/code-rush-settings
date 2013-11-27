@@ -1,0 +1,16 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Catalog">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Count" Value="3" />
+  </Section>
+  <Section Name="IntellisenseProvidersList">
+   <Option Name="ProviderName0" Value="Variable Initializers" />
+   <Option Name="Enabled0" Value="True" />
+   <Option Name="ProviderName1" Value="Xaml Resources" />
+   <Option Name="Enabled1" Value="True" />
+   <Option Name="ProviderName2" Value="Xaml Values" />
+   <Option Name="Enabled2" Value="True" />
+  </Section>
+ </Language>
+</Page>

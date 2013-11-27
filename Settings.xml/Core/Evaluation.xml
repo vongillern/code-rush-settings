@@ -5,5 +5,8 @@
    <Option Name="ShowWelcome" Value="True" />
    <Option Name="ShowThankYou" Value="True" />
   </Section>
+  <Section Name="Expiration">
+   <Option Name="LastWarning" Value="11/14/2013 08:37:54" />
+  </Section>
  </Language>
 </Page>

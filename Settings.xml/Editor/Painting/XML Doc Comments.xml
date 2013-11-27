@@ -30,6 +30,7 @@
    <Option Name="DetailTextColor" Value="ARGB:255:48:34:122" />
    <Option Name="NameTextColor" Value="Named:White" />
    <Option Name="OtherNameTextColor" Value="Named:White" />
+   <Option Name="RemarksTextColor" Value="ARGB:255:96:79:183" />
   </Section>
  </Language>
 </Page>
